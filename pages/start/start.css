@@ -1,0 +1,14 @@
+/* Se aplicará solo cuando se cargue la pantalla start */
+.screen h1 {
+  color: var(--color-accent);
+  font-size: var(--font-size-xl);
+}
+
+#nickname,
+#country {
+  border: 2px solid var(--color-accent);
+}
+
+#btn-start {
+  background-color: var(--color-primary);
+}
